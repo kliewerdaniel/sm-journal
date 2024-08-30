@@ -8,4 +8,4 @@
 [context.development.environment]
   NODE_ENV = "development"
 
-  baseDir = "./"
+  baseDir = "/sm-journal/"
