@@ -7,3 +7,5 @@
 
 [context.development.environment]
   NODE_ENV = "development"
+
+  baseDir = "/opt/build/repo"
