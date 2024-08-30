@@ -7,6 +7,6 @@ author = "Your Name"
   subtitle = "A smart journal application"
 
 [build]
-  
-  
+  command = "hugo"
+
 baseDir = "/opt/build/repo"
