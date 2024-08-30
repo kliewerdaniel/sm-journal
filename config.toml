@@ -7,4 +7,5 @@ author = "Your Name"
   subtitle = "A smart journal application"
 
 [build]
-  baseDir = "./"
+  
+baseDir = "./"
