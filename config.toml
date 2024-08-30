@@ -5,3 +5,6 @@ author = "Your Name"
 [params]
   title = "Smart Journal"
   subtitle = "A smart journal application"
+
+[build]
+  baseDir = "/"
