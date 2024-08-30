@@ -9,4 +9,4 @@ author = "Your Name"
 [build]
   command = "hugo"
 
-baseDir = "/opt/build/repo"
+baseDir = "./"
