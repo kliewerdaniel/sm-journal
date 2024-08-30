@@ -8,4 +8,4 @@ author = "Your Name"
 
 [build]
   
-baseDir = "./sm-journal"
+baseDir = "/opt/build/repo"
