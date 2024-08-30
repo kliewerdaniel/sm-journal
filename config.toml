@@ -8,4 +8,4 @@ author = "Your Name"
 
 [build]
   
-baseDir = "./"
+baseDir = "./sm-journal"
